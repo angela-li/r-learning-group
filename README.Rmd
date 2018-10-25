@@ -13,8 +13,8 @@ This repository contains all scripts written during [Chi Hack Night](https://chi
 ### Contents
 
 | Date | What we did | R Script |
-|------------------------|--------------------------------------------|------------------------------|
-| 2018-10-23 | Walked through the `starwars` dataset in `dplyr`, familiarized ourselves with RStudio and R, did some data manipulation, and made one or two plots in `ggplot2` | [2018-10-23_starwars.R]() |
+|------------------------|----------------------------------|------------------------------|
+| 2018-10-23 | Walked through the `starwars` dataset in `dplyr`, familiarized ourselves with RStudio and R, did some data manipulation, and made one or two plots in `ggplot2` | [2018-10-23_starwars.R](https://github.com/angela-li/r-learning-group/blob/master/R/2018-10-23_starwars.R) |
 | 2018-10-30 | Import data, make a map, Halloween-related? |  |
 
 ### Resources

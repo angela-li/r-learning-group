@@ -8,9 +8,9 @@ This repository contains all scripts written during [Chi Hack Night](https://chi
 
 <table>
 <colgroup>
-<col width="16%" />
-<col width="58%" />
-<col width="24%" />
+<col width="27%" />
+<col width="38%" />
+<col width="34%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -23,7 +23,7 @@ This repository contains all scripts written during [Chi Hack Night](https://chi
 <tr class="odd">
 <td>2018-10-23</td>
 <td>Walked through the <code>starwars</code> dataset in <code>dplyr</code>, familiarized ourselves with RStudio and R, did some data manipulation, and made one or two plots in <code>ggplot2</code></td>
-<td><a href="">2018-10-23_starwars.R</a></td>
+<td><a href="https://github.com/angela-li/r-learning-group/blob/master/R/2018-10-23_starwars.R">2018-10-23_starwars.R</a></td>
 </tr>
 <tr class="even">
 <td>2018-10-30</td>
