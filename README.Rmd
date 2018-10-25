@@ -1,0 +1,26 @@
+---
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Learning Group
+
+This repository contains all scripts written during [Chi Hack Night](https://chihacknight.org) in the R Learning Group. The group is currently organized by Angela Li, R Spatial Advocate at the [Center for Spatial Data Science](https://spatial.uchicago.edu) at UChicago. I also founded [R-Ladies Chicago](https://rladieschicago.org) and love R!
+
+### Contents
+
+| Date | What we did | R Script |
+|------------|--------------------------------------------|------------------|
+| 2018-10-23 | Walked through the `starwars` dataset in `dplyr`, familiarized ourselves with RStudio and R, did some data manipulation, and made one or two plots in `ggplot2` | [2018-10-23_starwars.R]() |
+| 2018-10-30 | Import data, make a map, Halloween-related? |  |
+
+### Resources
+
+- [R for Data Science](https://spatial.uchicago.edu)
+- [RStudio Cloud](https://rstudio.cloud)
+
+### Contact Me
+Have questions about R? Submit an issue in this repository or send me an email at ali6@uchicago.edu.
