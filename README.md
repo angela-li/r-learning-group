@@ -2,7 +2,7 @@
 R Learning Group at Chi Hack Night
 ==================================
 
-This repository contains all scripts written during [Chi Hack Night](https://chihacknight.org) in the R Learning Group.
+This repository contains all scripts written during [Chi Hack Night](https://chihacknight.org) in the [R Learning Group](https://github.com/chihacknight/breakout-groups/issues/173).
 
 This group is currently organized by Angela Li, R Spatial Advocate at the [Center for Spatial Data Science](https://spatial.uchicago.edu) at UChicago. I also founded [R-Ladies Chicago](https://rladieschicago.org) and love R!
 
@@ -45,4 +45,4 @@ Resources
 Contact Me
 ----------
 
-Have questions about R? Submit an issue in this repository or send me an email at <ali6@uchicago.edu>. Or reach out via Twitter \[@CivicAngela\](<https://twitter.com/CivicAngela>).
+Have questions about R? Submit an issue in this repository or send me an email at <ali6@uchicago.edu>. Or reach out via Twitter @[CivicAngela](https://twitter.com/CivicAngela).
