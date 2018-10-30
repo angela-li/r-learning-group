@@ -1,3 +1,6 @@
+# 2018-10-23
+# We did basic data manipulation with the starwars dataset built into dplyr, and plotted it with ggplot2
+
 library(dplyr)
 library(magrittr)
 library(ggplot2)
