@@ -30,8 +30,8 @@ Contents
 </tr>
 <tr class="even">
 <td>2018-10-30</td>
-<td>Import data, make a map, Halloween-related?</td>
-<td></td>
+<td>Import affordable housing data (csv downladed from Chicago Data Portal), do some basic data manipulation with <code>dplyr</code>, make a map with <code>leaflet</code></td>
+<td><a href="https://github.com/angela-li/r-learning-group/blob/master/R/2018-10-30_housing.R">2018-10-30_housing.R</a></td>
 </tr>
 </tbody>
 </table>
