@@ -18,6 +18,7 @@ This group is currently organized by Angela Li, R Spatial Advocate at the [Cente
 |------------------------|------------------------|------------------------|
 | 2018-10-23 | Walked through the `starwars` dataset in `dplyr`, familiarized ourselves with RStudio and R, did some data manipulation, and made one or two plots in `ggplot2` | [2018-10-23_starwars.R](https://github.com/angela-li/r-learning-group/blob/master/R/2018-10-23_starwars.R) |
 | 2018-10-30 | Import affordable housing data ([csv](https://data.cityofchicago.org/Community-Economic-Development/Affordable-Rental-Housing-Developments/s6ha-ppgi) downloaded from Chicago Data Portal), do some basic data manipulation with `dplyr`, make a map with `leaflet` | [2018-10-30_housing.R](https://github.com/angela-li/r-learning-group/blob/master/R/2018-10-30_housing.R) |
+| 2018-?-? | import excel, ggplot-a-palooza, export plots, go over what a working directory is |  |
 
 ## Resources
 

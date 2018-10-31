@@ -33,6 +33,11 @@ Contents
 <td>Import affordable housing data (<a href="https://data.cityofchicago.org/Community-Economic-Development/Affordable-Rental-Housing-Developments/s6ha-ppgi">csv</a> downloaded from Chicago Data Portal), do some basic data manipulation with <code>dplyr</code>, make a map with <code>leaflet</code></td>
 <td><a href="https://github.com/angela-li/r-learning-group/blob/master/R/2018-10-30_housing.R">2018-10-30_housing.R</a></td>
 </tr>
+<tr class="odd">
+<td>2018-?-?</td>
+<td>import excel, ggplot-a-palooza, export plots, go over what a working directory is</td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
