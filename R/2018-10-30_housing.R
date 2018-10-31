@@ -8,7 +8,7 @@ library(dplyr)
 library(ggplot2)
 library(leaflet)
 
-housing <- read_csv("Affordable_Rental_Housing_Developments.csv")
+housing <- read_csv("data/Affordable_Rental_Housing_Developments.csv")
 View(housing)
 names(housing)
 
