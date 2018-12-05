@@ -3,14 +3,15 @@
 # Install and load necessary packages -------------------------------------
 # install.packages("tidyverse") 
 # install.packages("RSocrata")
-1 + 1
-2 * 3
 
 library(tidyverse)
 library(RSocrata)
 
 
 # Basic functions in R ----------------------------------------------------
+1 + 1
+2 * 3
+
 data("mtcars")
 View(mtcars)
 class(mtcars)
@@ -26,7 +27,8 @@ str(mtcars)
 
 # Work with Chicago Data Portal public salary information -----------------
 # Read some data in
-salaries <- read_csv("https://data.cityofchicago.org/resource/tt4n-kn4t.csv") # For some reason, this only reads in 1000 rows: likely something to do with the API
+salaries <- read_csv("https://data.cityofchicago.org/resource/tt4n-kn4t.csv") 
+# For some reason, this only reads in 1000 rows: likely something to do with the API
 salaries_all <- read.socrata("https://data.cityofchicago.org/resource/tt4n-kn4t.csv")
 salaries_all <- as_tibble(salaries_all)
 
@@ -72,6 +74,7 @@ ggplot(median_paid, aes(x = med_salary)) +
 
 # Type Ctrl-Enter to run a line of code
 
-# Sometimes multiple packages can have functions named the same thing; in this case, use the packagename::functionname() syntax if you need the masked function
+# Sometimes multiple packages can have functions named the same thing
+# In this case, use the packagename::functionname() syntax if you need the masked function
 base::intersect()
 dplyr::intersect()

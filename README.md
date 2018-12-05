@@ -6,6 +6,11 @@ This repository contains all scripts written during [Chi Hack Night](https://chi
 
 This group is currently organized by Angela Li, R Spatial Advocate at the [Center for Spatial Data Science](https://spatial.uchicago.edu) at UChicago. I also founded [R-Ladies Chicago](https://rladieschicago.org) and love R!
 
+Structure
+---------
+
+In general, we start with a dataset found on the [Chicago Data Portal](https://data.cityofchicago.org/). We then import, manipulate, and visualize it using R. The focus is on using the [`tidyverse`](https://www.tidyverse.org/) to teach a quick data workflow. Learn more about this suite of packages in the free [R for Data Science](https://r4ds.had.co.nz/) book.
+
 Contents
 --------
 
@@ -30,13 +35,13 @@ Contents
 </tr>
 <tr class="even">
 <td>2018-10-30</td>
-<td>Import affordable housing data (<a href="https://data.cityofchicago.org/Community-Economic-Development/Affordable-Rental-Housing-Developments/s6ha-ppgi">csv</a> downloaded from Chicago Data Portal), do some basic data manipulation with <code>dplyr</code>, make a map with <code>leaflet</code></td>
+<td>Import <a href="https://data.cityofchicago.org/Community-Economic-Development/Affordable-Rental-Housing-Developments/s6ha-ppgi">affordable housing data</a> (csv downloaded from Chicago Data Portal), do some basic data manipulation with <code>dplyr</code>, make a map with <code>leaflet</code></td>
 <td><a href="https://github.com/angela-li/r-learning-group/blob/master/R/2018-10-30_housing.R">2018-10-30_housing.R</a></td>
 </tr>
 <tr class="odd">
-<td>2018-?-?</td>
-<td>import excel, ggplot-a-palooza, export plots, go over what a working directory is</td>
-<td></td>
+<td>2018-12-04</td>
+<td>Import <a href="https://data.cityofchicago.org/Administration-Finance/Current-Employee-Names-Salaries-and-Position-Title/xzkq-xp2w">Chicago public salary data</a> with <code>RSocrata</code>, look at top salaries (in aggregate and by department) with <code>dplyr</code>, make a histogram of median salaries by department with <code>ggplot2</code></td>
+<td><a href="https://github.com/angela-li/r-learning-group/blob/master/R/2018-12-04_salaries.R">2018-12-04_salaries.R</a></td>
 </tr>
 </tbody>
 </table>
