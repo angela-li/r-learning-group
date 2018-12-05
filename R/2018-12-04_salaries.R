@@ -74,6 +74,9 @@ ggplot(median_paid, aes(x = med_salary)) +
 
 # Type Ctrl-Enter to run a line of code
 
+# Where to find packages to use?
+# CRAN Task Views are a good start, though sometimes somewhat overwhelming: https://cran.r-project.org/. I recommend starting with the tidyverse package, which gives you a good set of beginner tools, then expanding your repertoire as needed 
+
 # Sometimes multiple packages can have functions named the same thing
 # In this case, use the packagename::functionname() syntax if you need the masked function
 base::intersect()
