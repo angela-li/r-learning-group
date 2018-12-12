@@ -14,7 +14,7 @@ This group is currently organized by Angela Li, R Spatial Advocate at the [Cente
 
 ## Structure
 
-In general, we start with a dataset found on the [Chicago Data Portal](https://data.cityofchicago.org/). We then import, manipulate, and visualize it using R. The focus is on using the [`tidyverse`](https://www.tidyverse.org/) to teach a quick data workflow. Learn more about this suite of packages in the free [R for Data Science](https://r4ds.had.co.nz/) book.
+In general, we start with a dataset found on the [Chicago Data Portal](https://data.cityofchicago.org/). We then import, manipulate, and visualize it using R. The focus is often on using the [`tidyverse`](https://www.tidyverse.org/) to teach a quick data workflow. Learn more about this suite of packages in the free [R for Data Science](https://r4ds.had.co.nz/) book.
 
 ## Contents
 
@@ -23,9 +23,11 @@ In general, we start with a dataset found on the [Chicago Data Portal](https://d
 | 2018-10-23 | Walked through the `starwars` dataset in `dplyr`, familiarized ourselves with RStudio and R, did some data manipulation, and made one or two plots in `ggplot2` | [2018-10-23_starwars.R](https://github.com/angela-li/r-learning-group/blob/master/R/2018-10-23_starwars.R) |
 | 2018-10-30 | Import [affordable housing data](https://data.cityofchicago.org/Community-Economic-Development/Affordable-Rental-Housing-Developments/s6ha-ppgi) (csv downloaded from Chicago Data Portal), do some basic data manipulation with `dplyr`, make a map with `leaflet` | [2018-10-30_housing.R](https://github.com/angela-li/r-learning-group/blob/master/R/2018-10-30_housing.R) |
 | 2018-12-04 | Import [Chicago public salary data](https://data.cityofchicago.org/Administration-Finance/Current-Employee-Names-Salaries-and-Position-Title/xzkq-xp2w) with `RSocrata`, look at top salaries (in aggregate and by department) with `dplyr`, make a histogram of median salaries by department with `ggplot2` | [2018-12-04_salaries.R](https://github.com/angela-li/r-learning-group/blob/master/R/2018-12-04_salaries.R) |
+| 2018-12-11 | Import Chicago [fire station location data](https://data.cityofchicago.org/Administration-Finance/Current-Employee-Names-Salaries-and-Position-Title/xzkq-xp2w) as a GeoJSON with `sf` and make a `leaflet` map with it | [2018-12-11_firestations.R](https://github.com/angela-li/r-learning-group/blob/master/R/2018-12-11_firestations.R) |
 
 ## Resources
 
+- [Introductory slides for sessions](https://docs.google.com/presentation/d/1qEyoOjJx1elaftrCnckWGMjFZ7xZaGP4fsQeAp9Zp5c/edit#slide=id.g4632030f2f_0_0)
 - [R for Data Science](https://spatial.uchicago.edu)
 - [RStudio Cloud](https://rstudio.cloud)
 

@@ -9,7 +9,7 @@ This group is currently organized by Angela Li, R Spatial Advocate at the [Cente
 Structure
 ---------
 
-In general, we start with a dataset found on the [Chicago Data Portal](https://data.cityofchicago.org/). We then import, manipulate, and visualize it using R. The focus is on using the [`tidyverse`](https://www.tidyverse.org/) to teach a quick data workflow. Learn more about this suite of packages in the free [R for Data Science](https://r4ds.had.co.nz/) book.
+In general, we start with a dataset found on the [Chicago Data Portal](https://data.cityofchicago.org/). We then import, manipulate, and visualize it using R. The focus is often on using the [`tidyverse`](https://www.tidyverse.org/) to teach a quick data workflow. Learn more about this suite of packages in the free [R for Data Science](https://r4ds.had.co.nz/) book.
 
 Contents
 --------
@@ -43,12 +43,18 @@ Contents
 <td>Import <a href="https://data.cityofchicago.org/Administration-Finance/Current-Employee-Names-Salaries-and-Position-Title/xzkq-xp2w">Chicago public salary data</a> with <code>RSocrata</code>, look at top salaries (in aggregate and by department) with <code>dplyr</code>, make a histogram of median salaries by department with <code>ggplot2</code></td>
 <td><a href="https://github.com/angela-li/r-learning-group/blob/master/R/2018-12-04_salaries.R">2018-12-04_salaries.R</a></td>
 </tr>
+<tr class="even">
+<td>2018-12-11</td>
+<td>Import Chicago <a href="https://data.cityofchicago.org/Administration-Finance/Current-Employee-Names-Salaries-and-Position-Title/xzkq-xp2w">fire station location data</a> as a GeoJSON with <code>sf</code> and make a <code>leaflet</code> map with it</td>
+<td><a href="https://github.com/angela-li/r-learning-group/blob/master/R/2018-12-11_firestations.R">2018-12-11_firestations.R</a></td>
+</tr>
 </tbody>
 </table>
 
 Resources
 ---------
 
+-   [Introductory slides for sessions](https://docs.google.com/presentation/d/1qEyoOjJx1elaftrCnckWGMjFZ7xZaGP4fsQeAp9Zp5c/edit#slide=id.g4632030f2f_0_0)
 -   [R for Data Science](https://spatial.uchicago.edu)
 -   [RStudio Cloud](https://rstudio.cloud)
 
