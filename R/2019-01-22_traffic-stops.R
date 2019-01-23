@@ -6,8 +6,8 @@ View(mtcars)
 names(mtcars)
 summary(mtcars)
 
-install.packages("tidyverse")
-install.packages("naniar")
+# install.packages("tidyverse")
+# install.packages("naniar")
 library(tidyverse)
 library(naniar)
 
@@ -24,4 +24,11 @@ names(stops)
 drugs <- select(stops, contains("Contraband"), "DriverRace")
 gg_miss_var(drugs)
 
-not_drugs <- select(stops, -contains("Contraband"))
+drug_counts <- select(stops, 
+                      "AgencyName",
+                      contains("Contraband"), 
+                      "DriverRace",
+                      -contains("Rate"),
+                      -contains("Dog"))
+summary(drug_counts)
+head(drug_counts)
