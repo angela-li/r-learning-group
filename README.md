@@ -29,24 +29,34 @@ Contents
 </thead>
 <tbody>
 <tr class="odd">
-<td>2018-10-23</td>
-<td>Walked through the <code>starwars</code> dataset in <code>dplyr</code>, familiarized ourselves with RStudio and R, did some data manipulation, and made one or two plots in <code>ggplot2</code></td>
-<td><a href="https://github.com/angela-li/r-learning-group/blob/master/R/2018-10-23_starwars.R">2018-10-23_starwars.R</a></td>
+<td>2019-01-22</td>
+<td>Import <a href="https://d4q93323g8cmn.cloudfront.net/data/2017_metrics.csv">Illinois Traffic Stop data metrics</a> (mentioned in the night's talk, video <a href="https://chihacknight.org/events/2019/01/22/racial-disparities-IL-traffic-stops.html">here</a>), check for missingness using <code>naniar</code>, select variables with <code>dplyr</code></td>
+<td><a href="https://github.com/angela-li/r-learning-group/blob/master/R/2019-01-22_traffic-stops.R">2019-01-22_traffic-stops.R</a></td>
 </tr>
 <tr class="even">
-<td>2018-10-30</td>
-<td>Import <a href="https://data.cityofchicago.org/Community-Economic-Development/Affordable-Rental-Housing-Developments/s6ha-ppgi">affordable housing data</a> (csv downloaded from Chicago Data Portal), do some basic data manipulation with <code>dplyr</code>, make a map with <code>leaflet</code></td>
-<td><a href="https://github.com/angela-li/r-learning-group/blob/master/R/2018-10-30_housing.R">2018-10-30_housing.R</a></td>
+<td>2019-01-08</td>
+<td>Look at <a href="https://home.chicagopolice.org/isr-data/">Chicago police stop data</a>, use <code>dplyr</code> to clean data and look at racial breakdowns of stops (statistic briefly mentioned in the night's talk on the Vote Equity project <a href="https://chihacknight.org/events/2019/01/08/vote-equity-project.html">here</a>)</td>
+<td><a href="https://github.com/angela-li/r-learning-group/blob/master/R/2019-01-08_police-stops.R">2019-01-08_police-stops.R</a></td>
 </tr>
 <tr class="odd">
+<td>2018-12-11</td>
+<td>Import Chicago <a href="https://data.cityofchicago.org/Administration-Finance/Current-Employee-Names-Salaries-and-Position-Title/xzkq-xp2w">fire station location data</a> as a GeoJSON with <code>sf</code> and make a <code>leaflet</code> map with it</td>
+<td><a href="https://github.com/angela-li/r-learning-group/blob/master/R/2018-12-11_firestations.R">2018-12-11_firestations.R</a></td>
+</tr>
+<tr class="even">
 <td>2018-12-04</td>
 <td>Import <a href="https://data.cityofchicago.org/Administration-Finance/Current-Employee-Names-Salaries-and-Position-Title/xzkq-xp2w">Chicago public salary data</a> with <code>RSocrata</code>, look at top salaries (in aggregate and by department) with <code>dplyr</code>, make a histogram of median salaries by department with <code>ggplot2</code></td>
 <td><a href="https://github.com/angela-li/r-learning-group/blob/master/R/2018-12-04_salaries.R">2018-12-04_salaries.R</a></td>
 </tr>
+<tr class="odd">
+<td>2018-10-30</td>
+<td>Import <a href="https://data.cityofchicago.org/Community-Economic-Development/Affordable-Rental-Housing-Developments/s6ha-ppgi">affordable housing data</a> (csv downloaded from Chicago Data Portal), do some basic data manipulation with <code>dplyr</code>, make a map with <code>leaflet</code></td>
+<td><a href="https://github.com/angela-li/r-learning-group/blob/master/R/2018-10-30_housing.R">2018-10-30_housing.R</a></td>
+</tr>
 <tr class="even">
-<td>2018-12-11</td>
-<td>Import Chicago <a href="https://data.cityofchicago.org/Administration-Finance/Current-Employee-Names-Salaries-and-Position-Title/xzkq-xp2w">fire station location data</a> as a GeoJSON with <code>sf</code> and make a <code>leaflet</code> map with it</td>
-<td><a href="https://github.com/angela-li/r-learning-group/blob/master/R/2018-12-11_firestations.R">2018-12-11_firestations.R</a></td>
+<td>2018-10-23</td>
+<td>Walked through the <code>starwars</code> dataset in <code>dplyr</code>, familiarized ourselves with RStudio and R, did some data manipulation, and made one or two plots in <code>ggplot2</code></td>
+<td><a href="https://github.com/angela-li/r-learning-group/blob/master/R/2018-10-23_starwars.R">2018-10-23_starwars.R</a></td>
 </tr>
 </tbody>
 </table>
